@@ -1,4 +1,4 @@
-#SEGMENTAÇÃO DE CLIENTES POR USO DO CARTÃO DE CRÉDITO
+# SEGMENTAÇÃO DE CLIENTES POR USO DO CARTÃO DE CRÉDITO
 
 Análise das transações de compras, efetuadas por cerca de 9 mil titulares de cartões de crédito ativos durante os últimos 06 meses. 
 

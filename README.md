@@ -4,11 +4,11 @@ Análise das transações de compras, efetuadas por cerca de 9 mil titulares de 
 
 Observando o padrão de consumo e o comportamento do uso do cartão, a fim de  identificar possíveis grupos de clientes para o direcionamento estratégico de produtos/serviços. 
 
-**Ferramentas**
+## Ferramentas
 
 A manipulação, análise e visualização de dados foram desenvolvidas na **linguagem R** de programação estatística utilizando o **R Studio**. 
 
-**Base de Dados**
+## Base de Dados
 
 Realizamos o estudo de caso utilizando um conjunto de dados disponibilizado publicamente no Kaggle. 
 
@@ -19,7 +19,7 @@ Entretanto, essa informação não é significante em nosso modelo, e por isso d
 O conjunto de dados está disponível em "CC GENERAL.xlsx".
 
 
-**Resultados**
+## Resultados
 
 Como resultado identificamos 03 grupos de clientes com perfis comportamentais distintos.
 
